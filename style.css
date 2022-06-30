@@ -1,0 +1,16 @@
+
+body{
+    background-color:plum;
+}
+
+.score{
+    font-size: larger;
+    margin-left: 100px;
+}
+
+.timer{
+    font-size: larger;
+    float:right;
+    margin-right: 150px;
+}
+
